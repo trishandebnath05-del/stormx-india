@@ -1,0 +1,6 @@
+{
+  "name": "StormX India - Live Weather, IMD Alerts & Android App",
+  "description": "StormX India is a native-feel Android weather app with Open-Meteo forecasts, official IMD storm alerts, bilingual Indian news, Android notification channels, and zero-budget APK builder.",
+  "requestFramePermissions": ["geolocation", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
